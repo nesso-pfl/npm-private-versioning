@@ -4,5 +4,10 @@
   "main": "src/index.js",
   "author": "nesso <32949286+nesso-pfl@users.noreply.github.com>",
   "private": true,
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "npm-private-versioning": "https://github.com/nesso-pfl/npm-private-versioning#v1.1.0",
+    "npm-private-versioning.module-a": "https://github.com/nesso-pfl/npm-private-versioning#v1.1.0-moduleA"
+  }
 }

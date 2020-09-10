@@ -4,6 +4,7 @@
   "main": "index.js",
   "author": "nesso <32949286+nesso-pfl@users.noreply.github.com>",
   "private": true,
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
 
